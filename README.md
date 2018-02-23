@@ -1,1 +1,1 @@
-# Intermediate-Programming
+# Intermediate C++ Programming
